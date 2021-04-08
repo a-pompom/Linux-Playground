@@ -1,0 +1,8 @@
+UNIX
+変数
+3rdVariable
+foo_bar
+hoge-huga
+long_variable1234
+5he11_
+_

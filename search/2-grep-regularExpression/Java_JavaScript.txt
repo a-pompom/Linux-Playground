@@ -1,0 +1,5 @@
+ここではJavaの話をしています。
+ここではJavaScriptの話をしています。
+JavaにScriptletってありませんでしたっけ。そうでした、JSPでしたね。
+JavaとJavaScriptの違いを教えてください。
+REPL的なScriptJavaは存在するのでしょうか。

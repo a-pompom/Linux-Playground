@@ -1,0 +1,7 @@
+const func = (foo) => {...};
+public function {}
+not function )param1(
+def is_valid(value1, value2): // ()の中は引数を表す
+isValid(...args);
+(no close parenthesis...
+)
